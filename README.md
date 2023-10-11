@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Brd</h1>
 <h3 align="center">A passionate Js developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=heehebrd&label=Profile%20views&color=0e75b6&style=flat" alt="heehebrd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=heehebrd&label=Profile%20views&color=0e75b6&style=flat" alt="brddev" /> </p>
 
 - 🔭 I’m currently working on [Fenix](https://dsc.gg/fenixx)
 
