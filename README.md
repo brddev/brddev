@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width="90px" src="20231011_221107.png">
+  <img align="center" width="150px" src="20231011_221107.png">
 <h1 align="center">Hi 👋, I'm Brd</h1>
 <h3 align="center">A passionate Js developer from India</h3>
 
