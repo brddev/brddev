@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width="70px" src="brd.jpg">
+  <img align="center" width="70px" src="brd.jpg" style="border-radius: 50%;">
 <h1 align="center">Hi 👋, I'm Brd</h1>
 <h3 align="center">A passionate Js developer from India</h3>
 
