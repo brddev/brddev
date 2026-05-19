@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Brd</h1>
 <h3 align="center">A passionate Js developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=heehebrd&label=Profile%20views&color=0e75b6&style=flat" alt="brddev" /> </p>
 
 # 💫 About Me:
 - 🔭 I’m currently studying
@@ -39,6 +38,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=brddev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![]([https://komarev.com/ghpvc/?username=brddev&icon=0&color=0)](https://visitcount.itsvg.in](https://komarev.com/ghpvc/?username=heehebrd&label=Profile%20views&color=0e75b6&style=flat))
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=heehebrd&label=Profile%20views&color=0e75b6&style=flat" alt="brddev" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
